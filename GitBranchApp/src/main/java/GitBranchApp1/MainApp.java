@@ -13,7 +13,7 @@ public class MainApp {
 		
 		
 		//帥哥
-		Handsome hh=new Handsome()
+		Handsome hh=new Handsome();
 				
 		System.out.println(hh.handsome("213213"));
 	}
@@ -25,7 +25,7 @@ class Math {
 }
 class Handsome{
 	private String s="大腳";
-	int handsome(String str) {
+	String handsome(String str) {
 		return  str+s;
 	}
 }
