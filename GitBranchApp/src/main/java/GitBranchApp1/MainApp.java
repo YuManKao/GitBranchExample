@@ -8,6 +8,7 @@ public class MainApp {
 		Math cMath = new Math();
 		System.out.println();
 		System.out.println(cMath.add(10, 20));
+		System.out.println("高大腳@##$###$%%%^%##E$#@ 我來了!!!!!!!");
 		//帥哥
 		Handsome hh=new Handsome();
 				
@@ -17,17 +18,5 @@ public class MainApp {
 class Math {
 	int add(int a, int b) {
 		return a + b;
-	}
-}
-class Handsome{
-	private String s="大腳";
-	String handsome(String str) {
-		return  str+s;
-	}
-}
-class Slow{
-	private String s="風暴";
-	Slow(String s){
-	
 	}
 }
