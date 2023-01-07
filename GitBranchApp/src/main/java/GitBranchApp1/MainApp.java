@@ -9,10 +9,10 @@ public class MainApp {
 		System.out.println();
 		System.out.println(cMath.add(10, 20));
 		System.out.println("高大腳@##$###$%%%^%##E$#@ 我來了!!!!!!!");
+		System.out.println("滾蛋!!!!!!!");
 		//帥哥
-		Handsome hh=new Handsome();
-				
-		System.out.println(hh.handsome("213213"));
+		Math M = new Math();
+		System.out.println(M.add(1,2));
 	}
 }
 class Math {
