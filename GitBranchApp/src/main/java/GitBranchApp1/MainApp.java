@@ -8,6 +8,7 @@ public class MainApp {
 		Math cMath = new Math();
 		System.out.println();
 		System.out.println(cMath.add(10, 20));
+		System.out.println("高大腳@##$###$%%%^%##E$#@ 我來了!!!!!!!");
 	}
 }
 class Math {
