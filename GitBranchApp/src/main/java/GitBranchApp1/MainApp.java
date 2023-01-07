@@ -2,7 +2,7 @@ package GitBranchApp1;
 
 public class MainApp {
 	public static void main(String[] args) {
-		//²Õªø
+		//çµ„é•·
 		System.out.println("1st Version");
 	}
 }
